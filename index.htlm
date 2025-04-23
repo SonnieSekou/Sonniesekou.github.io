@@ -83,4 +83,22 @@
     <!-- Add more logos here as needed -->
   </div>
 </section>
+<section id="portfolio" style="padding: 60px 20px; background-color: #f9f9f9; text-align: center;">
+  <h2 style="font-size: 2em; margin-bottom: 20px;">My Logo Design Portfolio</h2>
+  <p style="margin-bottom: 40px;">Here are a few examples of my clean, minimalist tech logos.</p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div style="max-width: 200px;">
+      <img src="Logo%20designs/Sonnie%20Logo%20Design%20(2).jpg" alt="Logo 1" style="width: 100%; border-radius: 10px;">
+    </div>
+    <div style="max-width: 200px;">
+      <img src="Logo%20designs/Sonnie%20Logo%20Design%20(2).PNG" alt="Logo 2" style="width: 100%; border-radius: 10px;">
+    </div>
+    <div style="max-width: 200px;">
+      <img src="Logo%20designs/Sonnie%20Logo%20Design.jpg" alt="Logo 3" style="width: 100%; border-radius: 10px;">
+    </div>
+    <div style="max-width: 200px;">
+      <img src="Logo%20designs/Sonnie%20Logo%20Design.png" alt="Logo 4" style="width: 100%; border-radius: 10px;">
+    </div>
+  </div>
+</section>
 
