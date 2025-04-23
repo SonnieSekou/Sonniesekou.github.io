@@ -73,3 +73,14 @@
   </footer>
 </body>
 </html>
+<section id="portfolio" style="padding: 50px; text-align: center;">
+  <h2>My Logo Design Portfolio</h2>
+  <p>Clean. Minimal. Modern. Tech-focused branding.</p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+    <img src="logo1.png" alt="Logo 1" style="max-width: 200px; border-radius: 10px;">
+    <img src="logo2.png" alt="Logo 2" style="max-width: 200px; border-radius: 10px;">
+    <img src="logo3.png" alt="Logo 3" style="max-width: 200px; border-radius: 10px;">
+    <!-- Add more logos here as needed -->
+  </div>
+</section>
+
