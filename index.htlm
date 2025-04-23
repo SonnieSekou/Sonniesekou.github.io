@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sekou Digitalz Tech</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #0d1117;
+      color: #ffffff;
+    }
+    header {
+      background-color: #161b22;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      color: #8b949e;
+      margin-top: 0.5rem;
+    }
+    main {
+      padding: 2rem;
+      text-align: center;
+    }
+    .section {
+      margin-bottom: 3rem;
+    }
+    footer {
+      background-color: #161b22;
+      padding: 1rem;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sekou Digitalz Tech</h1>
+    <p>Minimalist & Modern Tech Branding Studio</p>
+  </header>
+  <main>
+    <div class="section">
+      <h2>About Us</h2>
+      <p>
+        Sekou Digitalz Tech is a creative studio that delivers clean, modern, and tech-forward logo designs for startups and brands ready to make a statement.
+      </p>
+    </div>
+    <div class="section">
+      <h2>Services</h2>
+      <p>
+        - Professional Logo Design<br>
+        - Brand Identity Kits<br>
+        - Tech-Focused Visual Strategies
+      </p>
+    </div>
+    <div class="section">
+      <h2>Fiverr Pro</h2>
+      <p>
+        Visit our Fiverr Pro profile: <strong>Sonnie_sekou01</strong><br>
+        (Include your Fiverr profile link here once you have it)
+      </p>
+    </div>
+  </main>
+  <footer>
+    &copy; 2025 Sekou Digitalz Tech. All rights reserved.
+  </footer>
+</body>
+</html>
